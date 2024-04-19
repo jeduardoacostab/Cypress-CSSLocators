@@ -1,0 +1,2 @@
+# Cypress-CSSLocators
+CSSLocators case
